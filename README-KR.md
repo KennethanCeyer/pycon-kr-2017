@@ -39,8 +39,8 @@
   이 코드는 제너레이터가 무엇인가에 대해서 설명합니다.
   여러분은 `range` 함수를 제너레이터 방식을 이용하여 보고 만듭니다.
   
-  ## 질문
+## 질문사항
   
-  우측의 메일으로 질문해주세요 ([kennethan@nhpcw.com](kennethan@nhpcw.com)).
+우측의 메일으로 질문해주세요 ([kennethan@nhpcw.com](kennethan@nhpcw.com)).
   
-  감사합니다
+감사합니다
