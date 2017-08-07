@@ -12,7 +12,7 @@ This repository has snippets about Reactive Programming that announced at PyCon 
 
 If you want to run the code, Follow the below steps and enjoy it!
 
-> All attached snippet is tesed at Python v3.x.
+> All attached snippet is tested at Python v3.x.
 
 ## Steps
 
