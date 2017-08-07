@@ -2,6 +2,8 @@
 
 ![pycon2017 kr](http://www.pigno.se/static/assets/images/pycon2017.png)
 
+[:page_facing_up: Korean docs](README-KR.md)
+
 > How to use python reactively
 
 ## Getting started
