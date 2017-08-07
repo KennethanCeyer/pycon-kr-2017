@@ -36,11 +36,11 @@ If you want to run the code, Follow the below steps and enjoy it!
   
 - /snippets/coroutine_generator/2. generator : **easy**
 
-  This code describe what is generator.
+  This codes describe what is generator.
   You can see and make `range` function by using generator way.
   
 ## Questions
   
-Ask question to this email ([kennethan@nhpcw.com](kennethan@nhpcw.com)).
+Please ask a question to this email ([kennethan@nhpcw.com](kennethan@nhpcw.com)).
   
 Thank you
