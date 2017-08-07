@@ -2,14 +2,43 @@
 
 ![pycon2017 kr](http://www.pigno.se/static/assets/images/pycon2017.png)
 
-> 파이썬 리액티브하게 짜기
+> How to use python reactively
 
-## 시작하며
+## Getting started
 
-이 리포지토리에서는 발표에서 사용된 RxPy의 스니펫이 저장되어 있습니다.
+This repository has snippets about Reactive Programming that announced at PyCon Korea 2017.
 
-만약 여러분이 실제로 코드를 사용해보고 싶거나,
+If you want to run the code, Follow the below steps and enjoy it!
 
-코드를 응용해보고 싶다면 아래 목차에 따라 RxPy 코드를 실행하여 보시기 바랍니다.
+> All attached snippet is tesed at Python v3.x.
 
-모든 코드는 Python 3.x 버전에서 테스트 되었습니다.
+## Steps
+
+**RxPy**
+
+- /snippets/rxpy/1. hello_world : **easy**
+
+  This code helps you to understand how it works.
+
+- /snippets/rxpy/2. ice_breaking : **basic**
+
+  This code describes basic structure.
+  You can easily learn about methods of `RxPy`.
+
+**Corutine / Generator**
+
+- /snippets/coroutine_generator/1. coroutine : **intermediate**
+
+  This code helps you to undestand what is the benefit when you know coroutine.
+  This example describe coroutine's benefit at the part of memory saving.
+  
+- /snippets/coroutine_generator/2. generator : **easy**
+
+  This code describe what is generator.
+  You can see and make `range` function by using generator way.
+  
+  ## Questions
+  
+  Ask question to this email ([kennethan@nhpcw.com](kennethan@nhpcw.com)).
+  
+  Thank you
