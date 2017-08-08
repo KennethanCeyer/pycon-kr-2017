@@ -6,6 +6,14 @@
 
 > 파이썬 리액티브하게 짜기
 
+## 슬라이드
+
+[![Slideshare cover](http://www.pigno.se/static/assets/images/pycon2017-slideshare.png)](https://www.slideshare.net/KennethCeyer/pycon-korea-2017)
+
+이 리포지토리는 PyCon Korea 2017 발표를 바탕으로 제공되는 샘플코드입니다.
+
+만약 발표자료를 찾고 계신 분들은 위의 이미지를 클릭하여 슬라이드 쉐어로 보실 수 있습니다.
+
 ## 시작하며
 
 이 리포지토리는 PyCon Korea 2017에서 발표한 리액티브 프로그래밍과 관련된 스니펫을 다룹니다.
