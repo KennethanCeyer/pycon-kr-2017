@@ -34,15 +34,15 @@ If you want to run the code, Follow the below steps and enjoy it!
 
 - /snippets/rxpy/2. ice_breaking : **basic**
 
-  This code describes basic structure.
+  This code describes about basic structure of `RxPy`.
   
-  You can easily learn about methods of `RxPy`.
+  You can easily learn about the methods of `RxPy`.
 
 **Corutine / Generator**
 
 - /snippets/coroutine_generator/1. coroutine : **easy**
 
-  This code helps you to undestand what is the benefit when you know coroutine.
+  This code helps you to undestand what is the advantages when you know about coroutine.
   
   In this example, It shows intuitiveness through a simple quiz game.
 
