@@ -48,7 +48,7 @@ If you want to run the code, Follow the below steps and enjoy it!
 
 - /snippets/coroutine_generator/2. generator : **intermediate**
 
-  This codes describe what is generator.
+  This code describes what is generator.
   
   You can see and make `range` function by using the generator.
   
