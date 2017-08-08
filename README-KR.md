@@ -38,12 +38,12 @@
 
 **Corutine / Generator**
 
-- /snippets/coroutine_generator/1. coroutine : **중급**
+- /snippets/coroutine_generator/1. coroutine : **쉬움**
 
 이 코드는 코루틴이 어떤 장점을 가지고 있는지에 대한 이해를 돕습니다.<br />
 이 예제에서는 코루틴을 메모리 절약 관점에서의 장점을 설명합니다.
   
-- /snippets/coroutine_generator/2. generator : **easy**
+- /snippets/coroutine_generator/2. generator : **중급**
 
 이 코드는 제너레이터가 무엇인가에 대해서 설명합니다.<br />
 여러분은 `range` 함수를 제너레이터 방식을 이용하여 보고 만듭니다.
