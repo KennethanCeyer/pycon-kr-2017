@@ -42,12 +42,13 @@ If you want to run the code, Follow the below steps and enjoy it!
 - /snippets/coroutine_generator/1. coroutine : **easy**
 
   This code helps you to undestand what is the benefit when you know coroutine.
-  This example describe coroutine's benefit at the part of memory saving.
-  
+  In this example, It shows intuitiveness through a simple quiz game.
+
 - /snippets/coroutine_generator/2. generator : **intermediate**
 
   This codes describe what is generator.
   You can see and make `range` function by using generator way.
+  And the another example explains the advantages of the generator in terms of memory savings.
   
 ## Questions
   
