@@ -50,7 +50,7 @@ If you want to run the code, Follow the below steps and enjoy it!
 
   This codes describe what is generator.
   
-  You can see and make `range` function by using generator way.
+  You can see and make `range` function by using generator.
   
   And the another example explains the advantages of the generator in terms of memory savings.
   
