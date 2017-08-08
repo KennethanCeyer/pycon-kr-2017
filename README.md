@@ -39,12 +39,12 @@ If you want to run the code, Follow the below steps and enjoy it!
 
 **Corutine / Generator**
 
-- /snippets/coroutine_generator/1. coroutine : **intermediate**
+- /snippets/coroutine_generator/1. coroutine : **easy**
 
   This code helps you to undestand what is the benefit when you know coroutine.
   This example describe coroutine's benefit at the part of memory saving.
   
-- /snippets/coroutine_generator/2. generator : **easy**
+- /snippets/coroutine_generator/2. generator : **intermediate**
 
   This codes describe what is generator.
   You can see and make `range` function by using generator way.
