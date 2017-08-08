@@ -6,6 +6,16 @@
 
 > How to use python reactively
 
+## Presentation
+
+[![Slideshare cover](http://www.pigno.se/static/assets/images/pycon2017-slideshare.png)](https://www.slideshare.net/KennethCeyer/pycon-korea-2017)
+
+This repository has sample code that based on PyCon Korea 2017 announcement.
+
+You can see the presentation by clicking above image, If you want to find a presentation.
+
+(English slideshare will be uploaded at 08/13 PM 6:00, Thank you.)
+
 ## Getting started
 
 This repository has snippets about Reactive Programming that announced at PyCon Korea 2017.
