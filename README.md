@@ -14,7 +14,7 @@ This repository has sample code that based on PyCon Korea 2017 announcement.
 
 You can see the presentation by clicking above image, If you want to find a presentation.
 
-(English slideshare will be uploaded at 08/13 PM 6:00, Thank you.)
+(English slideshare will be uploaded within 08/10 PM 9:00, Thank you.)
 
 ## Getting started
 
