@@ -42,7 +42,7 @@ If you want to run the code, Follow the below steps and enjoy it!
 
 - /snippets/coroutine_generator/1. coroutine : **easy**
 
-  This code helps you to undestand what is the advantages when you know about coroutine.
+  This code helps you to undestand what is the advantages when you know about the coroutine.
   
   In this example, It shows intuitiveness through a simple quiz game.
 
