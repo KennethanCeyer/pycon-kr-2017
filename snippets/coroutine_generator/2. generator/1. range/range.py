@@ -15,14 +15,14 @@
 
     # AUTHOR: Kenneth (PIGNOSE)
     # DATE:   2017-08-13
-    # FILE: range.py
+    # FILE:   range.py
 =======================================================================================
 """
 
 import lib.pycon.display as display
 
 
-# This is co-routine function!.
+# This is generator function!.
 def custom_range(number):
     index = 0
     while(index < number):

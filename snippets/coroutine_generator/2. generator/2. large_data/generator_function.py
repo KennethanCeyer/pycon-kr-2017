@@ -15,7 +15,7 @@
 
     # AUTHOR: Kenneth (PIGNOSE)
     # DATE:   2017-08-13
-    # FILE: coroutine_function.py
+    # FILE: generator_function.py
 =======================================================================================
 """
 
