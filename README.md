@@ -35,6 +35,7 @@ If you want to run the code, Follow the below steps and enjoy it!
 - /snippets/rxpy/2. ice_breaking : **basic**
 
   This code describes basic structure.
+  
   You can easily learn about methods of `RxPy`.
 
 **Corutine / Generator**
@@ -42,12 +43,15 @@ If you want to run the code, Follow the below steps and enjoy it!
 - /snippets/coroutine_generator/1. coroutine : **easy**
 
   This code helps you to undestand what is the benefit when you know coroutine.
+  
   In this example, It shows intuitiveness through a simple quiz game.
 
 - /snippets/coroutine_generator/2. generator : **intermediate**
 
   This codes describe what is generator.
+  
   You can see and make `range` function by using generator way.
+  
   And the another example explains the advantages of the generator in terms of memory savings.
   
 ## Questions
