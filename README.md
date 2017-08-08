@@ -52,7 +52,7 @@ If you want to run the code, Follow the below steps and enjoy it!
   
   You can see and make `range` function by using generator way.
   
-  And the another example explains the advantages of the generator in terms of memory savings.
+  And the another example explains the advantages of the generator in terms of memory savings.
   
 ## Questions
   
