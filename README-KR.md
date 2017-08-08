@@ -51,5 +51,5 @@
   
 ## 질문사항
   
-우측의 메일으로 질문해주세요 ([kennethan@nhpcw.com](kennethan@nhpcw.com)).<br />
+질문은 우측의 이메일로 보내주세요 ([kennethan@nhpcw.com](kennethan@nhpcw.com)).<br />
 감사합니다
