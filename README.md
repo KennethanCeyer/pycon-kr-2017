@@ -1,6 +1,6 @@
 # PyCon Korea 2017
 
-![pycon2017 kr](http://www.pigno.se/static/assets/images/pycon2017.png)
+![pycon2017 kr](http://www.pigno.se/static/assets/images/pycon2017-en.png)
 
 [:page_facing_up: Korean docs](README-KR.md)
 
