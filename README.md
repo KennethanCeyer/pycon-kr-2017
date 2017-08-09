@@ -4,17 +4,15 @@
 
 [:page_facing_up: Korean docs](README-KR.md)
 
-> How to use python reactively
+> Dealing with Python Reactively
 
 ## Presentation
 
-[![Slideshare cover](http://www.pigno.se/static/assets/images/pycon2017-slideshare.png)](https://www.slideshare.net/KennethCeyer/pycon-korea-2017)
+[![Slideshare cover](http://www.pigno.se/static/assets/images/pycon2017-slideshare-en.png)](https://www.slideshare.net/KennethCeyer/dealing-with-python-reactively-pycon-korea-2017)
 
 This repository has sample code that based on PyCon Korea 2017 announcement.
 
 You can see the presentation by clicking above image, If you want to find a presentation.
-
-(English slideshare will be uploaded within 08/10 PM 9:00, Thank you.)
 
 ## Getting started
 
